@@ -1,7 +1,8 @@
 package Java;
 
 import java.util.Scanner;
-
+//Tính tổng các số từ 1 đến n (n nhập từ bàn phím)
+//Yêu cầu: Sử dụng vòng lặp để tính tổng
 public class JavaBai8 {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);

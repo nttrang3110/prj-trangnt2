@@ -1,5 +1,7 @@
 package Java;
 import java.util.Scanner;
+// Nhập một số nguyên dương n, tính n! (giai thừa)
+//Yêu cầu: Giai thừa n! = 1×2×…×n
 public class JavaBai9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

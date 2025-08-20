@@ -1,6 +1,6 @@
 package Java;
 import java.util.Scanner;
-//Viết chương trình nhập năm và kiểm tra xem năm đó có phải năm nhuận không
+//Viết chương trình nhập năm và kiểm tra xem năm đó có phải năm nhuận không?
 //Yêu cầu: Năm nhuận nếu chia hết cho 400 hoặc chia hết cho 4 nhưng không chia hết cho 100
 public class JavaBai10 {
     public static void main(String[] args) {

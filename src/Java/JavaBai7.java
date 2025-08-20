@@ -1,5 +1,7 @@
 package Java;
 import java.util.Scanner;
+//Bài 7: In bảng cửu chương của một số nguyên từ 1 đến 10.
+// Yêu cầu: Nhập số nguyên n, in ra bảng nhân từ n×1 đến n×10.
 public class JavaBai7 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);

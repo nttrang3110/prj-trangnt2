@@ -12,5 +12,6 @@ public class JavaBai10 {
         } else {
             System.out.println("Năm đã nhập không phải là năm nhuận");
         }
+        scanner.close();
     }
 }

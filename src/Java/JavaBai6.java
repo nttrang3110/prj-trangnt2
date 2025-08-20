@@ -16,5 +16,6 @@ public class JavaBai6 {
         } else {
             System.out.println("Học sinh yếu");
         }
+        scanner.close();
     }
 }

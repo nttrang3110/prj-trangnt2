@@ -10,6 +10,7 @@ public class JavaBai1 {
         int b = scanner.nextInt();
         int sum = a + b;
         System.out.println("Tổng hai số nguyên là: " + sum);
+        scanner.close();
     }
 }
 

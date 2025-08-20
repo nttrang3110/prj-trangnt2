@@ -16,6 +16,7 @@ public class JavaBai9 {
         } else {
             System.out.println("Vui lòng nhập số nguyên dương");
         }
+        scanner.close();
     }
 }
 

@@ -12,6 +12,7 @@ public class JavaBai7 {
             int tich = n * i;
             System.out.println(n + "x" + i + "=" + tich);
         }
+        scanner.close();
     }
 }
 

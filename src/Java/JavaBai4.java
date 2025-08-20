@@ -12,6 +12,7 @@ public class JavaBai4 {
         } else {
             System.out.println("Số nguyên đã nhập là số lẻ");
         }
+        scanner.close();
     }
 }
 

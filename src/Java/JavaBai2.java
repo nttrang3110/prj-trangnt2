@@ -11,6 +11,7 @@ public class JavaBai2 {
             double b = scanner.nextDouble();
             double dien_tich = a * b;
             System.out.println("Diện tích hình chữ nhật là: " + dien_tich);
+            scanner.close();
         }
     }
 

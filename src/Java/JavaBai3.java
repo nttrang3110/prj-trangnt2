@@ -12,5 +12,6 @@ public class JavaBai3 {
         double dien_tich = PI * r * r;
         System.out.println ("Chu vi hình tròn là: " + chu_vi);
         System.out.println ("Diện tích hình tròn là: " + dien_tich);
+        scanner.close();
     }
 }

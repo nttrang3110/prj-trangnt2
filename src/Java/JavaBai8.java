@@ -1,5 +1,4 @@
 package Java;
-
 import java.util.Scanner;
 //Tính tổng các số từ 1 đến n (n nhập từ bàn phím)
 //Yêu cầu: Sử dụng vòng lặp để tính tổng
@@ -13,6 +12,7 @@ public class JavaBai8 {
                 sum = sum + i;
             }
             System.out.println("Tổng các số từ 1 đến n là: " + sum);
+            scanner.close();
         }
     }
 

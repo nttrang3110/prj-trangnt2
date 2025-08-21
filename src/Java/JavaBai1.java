@@ -1,6 +1,7 @@
 package Java;
+
 import java.util.Scanner;
-//Câu 1:
+
 public class JavaBai1 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
